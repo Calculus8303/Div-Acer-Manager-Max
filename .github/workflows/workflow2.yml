@@ -45,7 +45,7 @@ jobs:
           git clone https://github.com/Calculus8303/Linuwu-Sense.git drivers-temp
         else
           echo "Downloading Div-Linuwu-Sense drivers..."
-          git clone https://github.com/Calculus8303/Div-Linuwu-Sense.git drivers-temp
+          git clone https://github.com/PXDiv/Div-Linuwu-Sense.git drivers-temp
         fi
         
         echo "✓ Drivers repository cloned successfully"
