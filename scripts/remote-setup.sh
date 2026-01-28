@@ -8,7 +8,7 @@ SYSTEMD_DIR="/etc/systemd/system"
 DAEMON_SERVICE_NAME="damx-daemon.service"
 DESKTOP_FILE_DIR="/usr/share/applications"
 ICON_DIR="/usr/share/icons/hicolor/256x256/apps"
-LINUWU_SENSE_REPO="0x7375646F/Linuwu-Sense"
+LINUWU_SENSE_REPO="Calculus8303/Linuwu-Sense"
 DAMX_REPO="PXDiv/Div-Acer-Manager-Max"
 
 # Legacy paths for cleanup (uppercase naming convention)
