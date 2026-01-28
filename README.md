@@ -1,3 +1,5 @@
+MODDED FOR Nitro-AN515-45
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6d383e82-8221-438b-9d6d-a19e998fcc59" alt="icon" width="80" style="vertical-align: middle;">
 </p>
@@ -73,7 +75,7 @@ You can install DAMX using either of the following methods:
 2. Run the following command:
 
    ```bash
-   curl -fsSL https://raw.githubusercontent.com/PXDiv/Div-Acer-Manager-Max/refs/heads/main/scripts/remoteSetup.sh -o /tmp/setup.sh && sudo bash /tmp/setup.sh
+   curl -fsSL https://raw.githubusercontent.com/Calculus8303/Div-Acer-Manager-Max/refs/heads/main/scripts/remoteSetup.sh -o /tmp/setup.sh && sudo bash /tmp/setup.sh
    ```
 
 3. Follow the on-screen prompts.
