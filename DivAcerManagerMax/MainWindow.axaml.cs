@@ -570,19 +570,19 @@ public partial class MainWindow : Window, INotifyPropertyChanged
 
     private void UpdatesButton_OnClick(object? sender, RoutedEventArgs e)
     {
-        Process.Start(new ProcessStartInfo("xdg-open", "https://github.com/PXDiv/Div-Acer-Manager-Max/releases")
+        Process.Start(new ProcessStartInfo("xdg-open", "https://github.com/Calculus8303/Div-Acer-Manager-Max/releases")
             { UseShellExecute = true });
     }
 
     private void StarProject_OnClick(object? sender, RoutedEventArgs e)
     {
-        Process.Start(new ProcessStartInfo("xdg-open", "https://github.com/PXDiv/Div-Acer-Manager-Max/")
+        Process.Start(new ProcessStartInfo("xdg-open", "https://github.com/Calculus8303/Div-Acer-Manager-Max/")
             { UseShellExecute = true });
     }
 
     private void IssuePageButton_OnClick(object? sender, RoutedEventArgs e)
     {
-        Process.Start(new ProcessStartInfo("xdg-open", "https://github.com/PXDiv/Div-Acer-Manager-Max/issues")
+        Process.Start(new ProcessStartInfo("xdg-open", "https://github.com/Calculus8303/Div-Acer-Manager-Max/issues")
             { UseShellExecute = true });
     }
 
