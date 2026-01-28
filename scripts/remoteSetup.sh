@@ -2,11 +2,11 @@
 
 # DAMX Remote Installer Script
 # This script downloads and installs the latest DAMX Suite for Acer laptops on Linux
-# Usage: curl -sSL https://raw.githubusercontent.com/PXDiv/Div-Acer-Manager-Max/main/remote-setup.sh | bash
+# Usage: curl -sSL https://raw.githubusercontent.com/Calculus8303/Div-Acer-Manager-Max/main/remote-setup.sh | bash
 
 # Constants
 SCRIPT_VERSION="1.0.0"
-GITHUB_REPO="PXDiv/Div-Acer-Manager-Max"
+GITHUB_REPO="Calculus8303/Div-Acer-Manager-Max"
 INSTALL_DIR="/opt/damx"
 BIN_DIR="/usr/local/bin"
 SYSTEMD_DIR="/etc/systemd/system"
@@ -591,8 +591,8 @@ case "${1:-}" in
     echo "DAMX Remote Installer"
     echo ""
     echo "Usage:"
-    echo "  curl -sSL https://raw.githubusercontent.com/PXDiv/Div-Acer-Manager-Max/main/remote-setup.sh | bash"
-    echo "  curl -sSL https://raw.githubusercontent.com/PXDiv/Div-Acer-Manager-Max/main/remote-setup.sh | bash -s -- --uninstall"
+    echo "  curl -sSL https://raw.githubusercontent.com/Calculus8303/Div-Acer-Manager-Max/main/remote-setup.sh | bash"
+    echo "  curl -sSL https://raw.githubusercontent.com/Calculus8303/Div-Acer-Manager-Max/main/remote-setup.sh | bash -s -- --uninstall"
     echo ""
     echo "Options:"
     echo "  --uninstall    Uninstall DAMX Suite"
